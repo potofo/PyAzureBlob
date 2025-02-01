@@ -22,7 +22,7 @@
 #! pip install azure-storage-blob
 #! pip install azure-identity
 #! pip install python-dotenv
-# reffer to https://learn.microsoft.com/ja-jp/azure/storage/common/storage-samples-python
+# reffer to https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-python
 
 import os
 from azure.core.exceptions import ResourceNotFoundError
